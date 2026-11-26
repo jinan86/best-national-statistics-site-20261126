@@ -1,8 +1,8 @@
 # Statistik Indonesia — Portal Data Nasional
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-0e7c6b)](https://make.fun)
-[![Competition: Make the best national statistics site](https://img.shields.io/badge/competition-best--national--statistics--site-0f2a43)](https://make.fun/c/best-national-statistics-site-20261126-0539)
-[![Node 22](https://img.shields.io/badge/node-22-339933)](https://nodejs.org)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/jinan86/best-national-statistics-site-20261126/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/jinan86/best-national-statistics-site-20261126/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 Portal statistik nasional Indonesia yang berjalan sepenuhnya luring dari
 file statis: penduduk, ekonomi, ketenagakerjaan, kemiskinan, IPM, dan
